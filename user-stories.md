@@ -1,6 +1,6 @@
-1. Property Listing
+1. Booking Notification
 
-As a host, I want to list my property with details such as title, description, price, and availability so that guests can view and book it.
+As a guest, I want to receive email and in-app notifications when my booking is confirmed or canceled so that I am always informed1
 
 2. Property Search and Filtering
 As a guest, I want to search and filter properties by location, price, and amenities so that I can find a suitable place to stay.

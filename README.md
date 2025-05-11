@@ -1,4 +1,8 @@
 
+# Airbnb Clone Backend
+
+A robust and scalable backend system that powers a clone of Airbnb's rental marketplace. This backend provides user authentication, property listings, booking management, payments, reviews, and administrative controls.
+
 # User Stories
 
 ## User Management
